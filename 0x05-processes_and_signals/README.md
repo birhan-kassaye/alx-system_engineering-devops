@@ -31,4 +31,8 @@ Read or watch:
 - trap
 
 ## Author
-___[BIRHAN Y. KASSAYE](https://github.com/Innocentsax)___
+<<<<<<< HEAD
+___[BIRHAN Y. KASSAYE](https://github.com/birhan-kassaye)___
+=======
+___[BIRHAN Y. KASSAYE](https://github.com/birhan-kassaye)___
+>>>>>>> 0cccdc3ef69a7ae29f0fe4fae6aa251f1d1a3a2b

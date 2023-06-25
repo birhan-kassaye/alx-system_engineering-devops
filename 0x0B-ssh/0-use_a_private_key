@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# bire
+
+ssh ubuntu@202.87.90.2 -i ~/.ssh/school

@@ -77,7 +77,7 @@ Password:	/* Type root password
 
 mysql> CREATE USER 'holberton_user'@'localhost' IDENTIFIED BY 'projectcorrection280hbtn';
 
-mysql> GRANT GRANT REPLICATION CLIENT ON *.* TO 'holberton_user'@'localhost';
+mysql> GRANT REPLICATION CLIENT ON *.* TO 'holberton_user'@'localhost';
 
 mysql> FLUSH PRIVILEGES;
 ```
